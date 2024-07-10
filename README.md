@@ -1,7 +1,8 @@
 # certifier
 Script para buscar información de certificados en un listado
 
-bajas el archivo , le das permisos de ejecución chmod +x certifier.sh
+bajas el archivo , con su respectivo git clone
+te vas a la carpeta y  le das permisos de ejecución chmod +x certifier.sh
 pones las web en dominios.txt
 esperas la información otorgada.
 
